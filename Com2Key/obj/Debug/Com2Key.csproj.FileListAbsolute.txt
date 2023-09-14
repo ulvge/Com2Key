@@ -1,0 +1,19 @@
+E:\WorkPlace\项目\12_土耳其\debug\Com2Key\Com2Key\Com2Key\bin\Debug\Com2Key.exe.config
+E:\WorkPlace\项目\12_土耳其\debug\Com2Key\Com2Key\Com2Key\bin\Debug\Com2Key.exe
+E:\WorkPlace\项目\12_土耳其\debug\Com2Key\Com2Key\Com2Key\bin\Debug\Com2Key.pdb
+E:\WorkPlace\项目\12_土耳其\debug\Com2Key\Com2Key\Com2Key\obj\Debug\CameraCapture.tools.FormSerialPortSet.resources
+E:\WorkPlace\项目\12_土耳其\debug\Com2Key\Com2Key\Com2Key\obj\Debug\Com2Key.Properties.Resources.resources
+E:\WorkPlace\项目\12_土耳其\debug\Com2Key\Com2Key\Com2Key\obj\Debug\Com2Key.csproj.GenerateResource.Cache
+E:\WorkPlace\项目\12_土耳其\debug\Com2Key\Com2Key\Com2Key\obj\Debug\Com2Key.exe
+E:\WorkPlace\项目\12_土耳其\debug\Com2Key\Com2Key\Com2Key\obj\Debug\Com2Key.pdb
+E:\WorkPlace\项目\12_土耳其\debug\Com2Key\Com2Key\Com2Key\obj\Debug\Com2Key.csprojResolveAssemblyReference.cache
+E:\3Proj\10 NS208\temp\Com2Key\Com2Key\bin\Debug\Com2Key.exe.config
+E:\3Proj\10 NS208\temp\Com2Key\Com2Key\bin\Debug\Com2Key.exe
+E:\3Proj\10 NS208\temp\Com2Key\Com2Key\bin\Debug\Com2Key.pdb
+E:\3Proj\10 NS208\temp\Com2Key\Com2Key\obj\Debug\Com2Key.csproj.AssemblyReference.cache
+E:\3Proj\10 NS208\temp\Com2Key\Com2Key\obj\Debug\CameraCapture.tools.FormSerialPortSet.resources
+E:\3Proj\10 NS208\temp\Com2Key\Com2Key\obj\Debug\Com2Key.Properties.Resources.resources
+E:\3Proj\10 NS208\temp\Com2Key\Com2Key\obj\Debug\Com2Key.csproj.GenerateResource.cache
+E:\3Proj\10 NS208\temp\Com2Key\Com2Key\obj\Debug\Com2Key.csproj.CoreCompileInputs.cache
+E:\3Proj\10 NS208\temp\Com2Key\Com2Key\obj\Debug\Com2Key.exe
+E:\3Proj\10 NS208\temp\Com2Key\Com2Key\obj\Debug\Com2Key.pdb
